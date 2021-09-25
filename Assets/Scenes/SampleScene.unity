@@ -3248,6 +3248,8 @@ MonoBehaviour:
     name: top_kawaii_rabbit
   - hash: -1879911193
     name: top_spring_outfit
+  - hash: -1078129772
+    name: top_floral
   - hash: -1800963100
     name: clothes_default
   - hash: 1326427621
@@ -3266,6 +3268,8 @@ MonoBehaviour:
     name: underwear_yellow_gym
   - hash: -1249458052
     name: underwear_pink_swimsuit
+  - hash: -1673762376
+    name: clothes_default_underwear 0
   - hash: -376221697
     name: Blend Tree
   - hash: 1801620568
@@ -4845,7 +4849,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1699027262}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1

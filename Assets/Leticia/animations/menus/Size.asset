@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Size
   m_EditorClassIdentifier: 
   controls:
-  - name: Hair
+  - name: Hair Length
     icon: {fileID: 2800000, guid: 7005c9a6160d7c441b6393f17276651d, type: 3}
     type: 203
     parameter:
@@ -24,7 +24,17 @@ MonoBehaviour:
     subParameters:
     - name: HairLength
     labels: []
-  - name: Breast
+  - name: Normal Hair
+    icon: {fileID: 2800000, guid: 7005c9a6160d7c441b6393f17276651d, type: 3}
+    type: 102
+    parameter:
+      name: HairLength
+    value: 0.5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Breast Size
     icon: {fileID: 2800000, guid: 43066d8a73c579048891e3c123e252a0, type: 3}
     type: 203
     parameter:
@@ -34,4 +44,14 @@ MonoBehaviour:
     subMenu: {fileID: 0}
     subParameters:
     - name: BreastSize
+    labels: []
+  - name: Normal Breasts
+    icon: {fileID: 2800000, guid: e561d0406779ab948b7f155498d101ee, type: 3}
+    type: 102
+    parameter:
+      name: BreastSize
+    value: 0.5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
     labels: []

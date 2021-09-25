@@ -46,7 +46,7 @@ MonoBehaviour:
     saved: 1
     defaultValue: 2
   - name: Nude
-    valueType: 0
+    valueType: 2
     saved: 1
     defaultValue: 0
   - name: HairLength

@@ -38,7 +38,7 @@ MonoBehaviour:
     type: 102
     parameter:
       name: Pants
-    value: 0
+    value: 1
     style: 0
     subMenu: {fileID: 0}
     subParameters: []
@@ -49,6 +49,16 @@ MonoBehaviour:
     parameter:
       name: Shoes
     value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Underwearless
+    icon: {fileID: 2800000, guid: 0f91b69b8c135e04594ec01e7ae3c60c, type: 3}
+    type: 102
+    parameter:
+      name: Underwear
+    value: 0
     style: 0
     subMenu: {fileID: 0}
     subParameters: []
