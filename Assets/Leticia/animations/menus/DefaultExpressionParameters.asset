@@ -57,8 +57,8 @@ MonoBehaviour:
     valueType: 1
     saved: 1
     defaultValue: 0.5
-  - name: 
-    valueType: 0
+  - name: Card
+    valueType: 2
     saved: 1
     defaultValue: 0
   - name: 
