@@ -24,3 +24,14 @@ MonoBehaviour:
     subParameters:
     - name: HairLength
     labels: []
+  - name: Breast
+    icon: {fileID: 2800000, guid: 43066d8a73c579048891e3c123e252a0, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: BreastSize
+    labels: []

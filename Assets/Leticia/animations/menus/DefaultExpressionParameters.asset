@@ -53,10 +53,10 @@ MonoBehaviour:
     valueType: 1
     saved: 1
     defaultValue: 0.5
-  - name: 
-    valueType: 0
+  - name: BreastSize
+    valueType: 1
     saved: 1
-    defaultValue: 0
+    defaultValue: 0.5
   - name: 
     valueType: 0
     saved: 1
