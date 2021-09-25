@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: NSFW
+  m_EditorClassIdentifier: 
+  controls:
+  - name: NSFW
+    icon: {fileID: 2800000, guid: 43066d8a73c579048891e3c123e252a0, type: 3}
+    type: 102
+    parameter:
+      name: Nude
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Topless
+    icon: {fileID: 2800000, guid: 0a88f1381c793874f9ea113e510e5e18, type: 3}
+    type: 102
+    parameter:
+      name: Tops
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Pantless
+    icon: {fileID: 2800000, guid: fdef0f673e80b0c4fbfcd1afac6fa0f8, type: 3}
+    type: 102
+    parameter:
+      name: Pants
+    value: 0
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Shoeless
+    icon: {fileID: 2800000, guid: c595fb24180ab7848b5ffc07d65d2e51, type: 3}
+    type: 102
+    parameter:
+      name: Shoes
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

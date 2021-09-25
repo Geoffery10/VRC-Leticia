@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Clothes
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Tops
+    icon: {fileID: 2800000, guid: 0a88f1381c793874f9ea113e510e5e18, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d3031fb3aceb26046a9f9db76a462db1, type: 2}
+    subParameters: []
+    labels: []
+  - name: Pants
+    icon: {fileID: 2800000, guid: fdef0f673e80b0c4fbfcd1afac6fa0f8, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d6b9d41abc4841b43b87f473b5ae33b6, type: 2}
+    subParameters: []
+    labels: []
+  - name: Shoes
+    icon: {fileID: 2800000, guid: c595fb24180ab7848b5ffc07d65d2e51, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 1f0384216d9c85749811c2b0efd4059b, type: 2}
+    subParameters: []
+    labels: []
+  - name: Underwear
+    icon: {fileID: 2800000, guid: 0f91b69b8c135e04594ec01e7ae3c60c, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: bac4265d47f06e04f89e3a4cdeb86943, type: 2}
+    subParameters: []
+    labels: []
+  - name: NSFW
+    icon: {fileID: 2800000, guid: 43066d8a73c579048891e3c123e252a0, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 5845a1598176ada4f98c821d23efeef1, type: 2}
+    subParameters: []
+    labels: []
