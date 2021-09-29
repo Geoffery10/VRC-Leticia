@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.17879781, g: 0.22387958, b: 0.30577385, a: 1}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -3035,7 +3035,7 @@ MonoBehaviour:
   m_Script: {fileID: -1427037861, guid: 4ecd63eff847044b68db9453ce219299, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  launchedFromSDKPipeline: 0
+  launchedFromSDKPipeline: 1
   completedSDKPipeline: 0
   blueprintId: avtr_3ac8c0a6-8ee0-429c-a451-17a4514e4c37
   contentType: 0
@@ -3250,12 +3250,26 @@ MonoBehaviour:
     name: top_spring_outfit
   - hash: -1078129772
     name: top_floral
+  - hash: 1019391768
+    name: top_programmer
+  - hash: 68185848
+    name: top_sweater
+  - hash: 172828623
+    name: top_crop_scripture
+  - hash: -695290267
+    name: top_crop_snails_house
   - hash: -1800963100
     name: clothes_default
   - hash: 1326427621
     name: nsfw
   - hash: -5533817
     name: pants_shorts
+  - hash: 1184386902
+    name: pants_jeans
+  - hash: -180559255
+    name: pants_pink_plaid
+  - hash: -539584343
+    name: pants_programmer
   - hash: 18251346
     name: clothes_default
   - hash: 93861721

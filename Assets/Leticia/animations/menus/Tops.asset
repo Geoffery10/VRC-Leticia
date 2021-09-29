@@ -13,33 +13,23 @@ MonoBehaviour:
   m_Name: Tops
   m_EditorClassIdentifier: 
   controls:
-  - name: Rabbit Sweater
-    icon: {fileID: 2800000, guid: 36ac7e7532b064741a534b24fb050d1e, type: 3}
-    type: 102
-    parameter:
-      name: Tops
-    value: 2
-    style: 0
-    subMenu: {fileID: 0}
-    subParameters: []
-    labels: []
-  - name: Spring Coat
-    icon: {fileID: 2800000, guid: f0e2891bee271e04eaeab7460d847856, type: 3}
-    type: 102
-    parameter:
-      name: Tops
-    value: 3
-    style: 0
-    subMenu: {fileID: 0}
-    subParameters: []
-    labels: []
-  - name: Floral Crop
+  - name: Normal
     icon: {fileID: 2800000, guid: 0a88f1381c793874f9ea113e510e5e18, type: 3}
-    type: 102
+    type: 103
     parameter:
-      name: Tops
-    value: 4
+      name: 
+    value: 1
     style: 0
-    subMenu: {fileID: 0}
+    subMenu: {fileID: 11400000, guid: 54fcf913a23724a4a94128c309740d7c, type: 2}
+    subParameters: []
+    labels: []
+  - name: Crop Tops
+    icon: {fileID: 2800000, guid: f2937bb88d787d443ba4017ea764eec3, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 15a696bf94a223446992f0ccd3005601, type: 2}
     subParameters: []
     labels: []

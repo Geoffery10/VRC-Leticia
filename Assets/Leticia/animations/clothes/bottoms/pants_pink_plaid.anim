@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: top_floral
+  m_Name: pants_pink_plaid
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,10 +20,10 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 2100000, guid: 22878b78b1573a84b91a50971cba60d2, type: 2}
+      value: {fileID: 2100000, guid: 1d5aeb0b22af0e742aebf4a1daea61aa, type: 2}
     - time: 0.016666668
-      value: {fileID: 2100000, guid: 22878b78b1573a84b91a50971cba60d2, type: 2}
-    attribute: m_Materials.Array.data[11]
+      value: {fileID: 2100000, guid: 1d5aeb0b22af0e742aebf4a1daea61aa, type: 2}
+    attribute: m_Materials.Array.data[12]
     path: Body
     classID: 137
     script: {fileID: 0}
@@ -36,14 +36,14 @@ AnimationClip:
     genericBindings:
     - serializedVersion: 2
       path: 2073732236
-      attribute: 11
+      attribute: 12
       script: {fileID: 0}
       typeID: 137
       customType: 21
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 2100000, guid: 22878b78b1573a84b91a50971cba60d2, type: 2}
-    - {fileID: 2100000, guid: 22878b78b1573a84b91a50971cba60d2, type: 2}
+    - {fileID: 2100000, guid: 1d5aeb0b22af0e742aebf4a1daea61aa, type: 2}
+    - {fileID: 2100000, guid: 1d5aeb0b22af0e742aebf4a1daea61aa, type: 2}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

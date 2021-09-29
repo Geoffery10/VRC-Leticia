@@ -14,11 +14,41 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   controls:
   - name: Denim Shorts
-    icon: {fileID: 2800000, guid: 3bee04be36bd6ae478edf3f804418aaa, type: 3}
+    icon: {fileID: 2800000, guid: fdef0f673e80b0c4fbfcd1afac6fa0f8, type: 3}
     type: 102
     parameter:
       name: Pants
     value: 0
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Jeans
+    icon: {fileID: 2800000, guid: 495899cdd13374b4aa30301ff4130e8e, type: 3}
+    type: 102
+    parameter:
+      name: Pants
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Pink Plaid
+    icon: {fileID: 2800000, guid: 495899cdd13374b4aa30301ff4130e8e, type: 3}
+    type: 102
+    parameter:
+      name: Pants
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Programmer
+    icon: {fileID: 2800000, guid: fdef0f673e80b0c4fbfcd1afac6fa0f8, type: 3}
+    type: 102
+    parameter:
+      name: Pants
+    value: 4
     style: 0
     subMenu: {fileID: 0}
     subParameters: []
